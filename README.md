@@ -6,8 +6,8 @@ To gain an admin users account, simply remove a file known as applesetupdone tha
 **DISCLAIMER** - FOR EDUCATIONAL PURPOSES ONLY
 
 ITEMS NEEDED: 
-Target MAC running OSX 10.6
-Secondary MAC UNLOCKED WITH FULL ADMIN PRIVELEGES on at least 1 account
+Target MAC running OSX 10.6,
+Secondary MAC UNLOCKED WITH FULL ADMIN PRIVELEGES on at least 1 account,
 Brute forcing program in case of locked firmware password.
 
 Steps for replication:
